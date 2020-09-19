@@ -1,7 +1,8 @@
+<!--
 ### Hi there 👋
 
-<!--
-**esensy/esensy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**ssw03270/ssw03270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Seong_eun_Lim / @seong_eun_77
+
+👋 Hi! Welcome to my Github profile!
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-a877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seong_eun_77/)](https://www.instagram.com/won_yee_/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttd8591@gmail.com)](mailto:nihao2550@gmail.com)
+
+## 🎓 Education 🎓
+ - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
+ - Gyeongil High School (2017.03. ~ 2020.02.)
+ 
+## 🚲 Activities 🚲
+ - Student Council of Dept. of Software Convergence (2020.09. ~ Recent)
+ - SWTUBE (2020.02. ~ Recent)
+
+## 📌 Hobby 📌
+ - Watching Youtube
+ - Listening Hiphop
