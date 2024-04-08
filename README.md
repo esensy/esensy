@@ -31,6 +31,6 @@ Here are some ideas to get you started:
  - Student Council of Dept. of Software Convergence (2020.09. ~ Recent)
  - SWTUBE (2020.02. ~ Recent)
 
-## 📌 Hobby 📌
+[## 📌 Hobby 📌
  - Watching Youtube
- - Listening Hiphop
+ - Listening Hiphop](url)
