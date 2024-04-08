@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[## 📌 Hobby 📌
+ - Watching Youtube
+ - Listening Hiphop](url)
+
 -->
 
 # Seong_eun_Lim / @seong_eun_77
@@ -30,7 +34,3 @@ Here are some ideas to get you started:
 ## 🚲 Activities 🚲
  - Student Council of Dept. of Software Convergence (2020.09. ~ Recent)
  - SWTUBE (2020.02. ~ Recent)
-
-[## 📌 Hobby 📌
- - Watching Youtube
- - Listening Hiphop](url)
