@@ -1,9 +1,6 @@
 <!--
 ### Hi there 👋
 
-
-**ssw03270/ssw03270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,9 +17,7 @@ Here are some ideas to get you started:
 
 -->
 
-# Seong_eun_Lim / @seong_eun_77
-
-👋 Hi! Welcome to my Github profile!
+# Seong_eun_Lim
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-a877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seong_eun_77/)](https://www.instagram.com/seong_eun_77/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttd8591@gmail.com)](mailto:nihao2550@gmail.com)
