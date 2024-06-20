@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 
 ## 🎓 Education 🎓
  - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
- - Gyeongil High School (2017.03. ~ 2020.02.)
  
 ## 🚲 Activities 🚲
  - Student Council of Dept. of Software Convergence (2020.09. ~ Recent)
- - SWTUBE (2020.02. ~ Recent)
