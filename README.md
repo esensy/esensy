@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 ## 🎓 Education 🎓
  - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
  
-## 🚲 Activities 🚲
- - Student Council of Dept. of Software Convergence (2020.09. ~ Recent)
