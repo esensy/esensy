@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 # Seong_eun_Lim
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-a877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_peridot.z/)](https://www.instagram.com/seong_eun_77/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttd8591@gmail.com)](mailto:nihao2550@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-a877f2?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_peridot.z/)](https://www.instagram.com/_peridot.z/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttd8591@gmail.com)](mailto:nihao0108@khu.ac.kr)
 
 ## 🎓 Education 🎓
  - KyungHee University, Dept. of Software Convergence (2020.03. ~ Recent)
